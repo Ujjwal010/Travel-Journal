@@ -1,0 +1,32 @@
+.journal1{
+    width: 550px;
+    height: 55px;
+    background: #F55A5A;
+    text-align: center;
+    margin:0px;
+    
+}
+
+.travel{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14.4608px;
+    line-height: 18px;
+    letter-spacing: -0.075em;
+    padding: 18px;
+    margin: 0px;
+    color: #FFFFFF;
+}
+
+@media screen and (max-width: 480px) {
+    
+        .journal1{
+            margin:0px 10px 0px 10px;
+            width: 420px;
+            height: 55px;
+            background: #F55A5A;
+            text-align: center;
+            
+        }
+  }
